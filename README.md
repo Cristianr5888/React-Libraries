@@ -2,7 +2,7 @@
 
 ---
 
-<img src="public-must/react-logo.png" width="250px" height="150px">
+<img src="public-must/react-logo.png" width="250px">
 
 ## Librería de Idiomas
 
