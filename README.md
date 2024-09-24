@@ -19,3 +19,11 @@
 ## React Bootstrap
 
 ### npm install react-bootstrap bootstrap
+
+---
+
+## React Props
+
+### npm install react prop-types
+
+### import PropTypes from 'prop-types';
