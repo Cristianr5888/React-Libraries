@@ -27,3 +27,11 @@
 ### npm install react prop-types
 
 ### import PropTypes from 'prop-types';
+
+---
+
+## Font awesome
+
+### npm install @fortawesome/fontawesome-svg-core
+### npm install @fortawesome/free-solid-svg-icons
+### npm install @fortawesome/react-fontawesome
